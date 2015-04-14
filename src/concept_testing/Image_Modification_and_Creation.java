@@ -1,4 +1,4 @@
-package image_creation_testing;
+package concept_testing;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -13,7 +13,7 @@ import java.util.Random;
 
 import javax.imageio.ImageIO;
 
-public class Image_Modification {
+public class Image_Modification_and_Creation {
 
 	// Further look into:
 	//	raster.getPixels vs getPixel and the single sample vs all samples (missing information?) 
