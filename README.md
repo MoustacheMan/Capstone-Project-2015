@@ -1,2 +1,2 @@
 # Capstone-Project-2015
-My Capstone project - Given two images of an object taken at different angles, synthesize/create an image of that object at an angle between the two original pictures.
+My Capstone project - Create highspeed/slow motion video using the video taken from two or more standard cameras. I will accomplish this by interleaving the frames of said videos into one video creating a single video with at a higher frame rate than the rate of those videos used to create it. This will also involve rendering the video from a single view meaning given two images of an object taken at different angles, I must synthesize/create an image of that object at an angle between the two original pictures.
